@@ -99,29 +99,4 @@ hr {
 input, select {
   vertical-align: middle;
 }
-
-.btn-main, .btn-blue, .btn-red, .btn-yellow, .btn-green {
-  text-align: center;
-  font-size: 1.5rem;
-  padding: 10px;
-  border-radius: 10px;
-  border: 1px solid #f5f5f5;
-  color: #fff;
-}
-
-.btn-blue {
-  background: #3949AB;
-}
-
-.btn-red {
-  background: #d32f2f;
-}
-
-.btn-yellow {
-  background: #FFA000;
-}
-
-.btn-green {
-  background: #2E7D32;
-}
-/*# sourceMappingURL=components.css.map */
+/*# sourceMappingURL=colors.css.map */

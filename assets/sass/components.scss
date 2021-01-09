@@ -1,5 +1,8 @@
 @import 'config.scss';
-
+//mixins
+@mixin white{
+    color:#fff;
+}
 
 // Buttons
 
@@ -8,4 +11,22 @@
     font-size: 1.5rem;
     padding: 10px;
     border-radius: 10px;
+    border: 1px solid #f5f5f5;
+    @include white;
+}
+.btn-blue {
+    @extend .btn-main;
+    background:$color-blue;
+}
+.btn-red{
+    @extend .btn-main;
+    background: $color-red;
+}
+.btn-yellow {
+    @extend .btn-main;
+    background: $color-yellow;
+}
+.btn-green { 
+    @extend .btn-main;
+    background : $color-green;
 }
