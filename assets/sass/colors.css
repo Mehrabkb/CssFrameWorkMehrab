@@ -99,4 +99,44 @@ hr {
 input, select {
   vertical-align: middle;
 }
+
+a {
+  text-decoration: none;
+}
+
+.txt-blue {
+  color: #3949AB;
+}
+
+.txt-red {
+  color: #d32f2f;
+}
+
+.txt-green {
+  color: #2E7D32;
+}
+
+.txt-yellow {
+  color: #FFA000;
+}
+
+.txt-white {
+  color: #fff;
+}
+
+.back-blue {
+  background: #3949AB;
+}
+
+.back-red {
+  background: #d32f2f;
+}
+
+.back-yellow {
+  background: #FFA000;
+}
+
+.back-green {
+  background: #2E7D32;
+}
 /*# sourceMappingURL=colors.css.map */

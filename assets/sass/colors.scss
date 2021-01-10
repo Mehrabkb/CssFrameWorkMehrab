@@ -1,2 +1,34 @@
 @import 'config.scss';
 
+
+// Colors
+.txt-blue{
+    color: $color-blue;
+}
+.txt-red{
+    color: $color-red;
+}
+.txt-green{
+    color:$color-green;
+}
+.txt-yellow{
+    color: $color-yellow;
+}
+.txt-white{
+    color: $color-white;
+}
+
+// Backgrounds
+
+.back-blue{
+    background: $color-blue;
+}
+.back-red{
+    background: $color-red;
+}
+.back-yellow{
+    background:$color-yellow;
+}
+.back-green{
+    background: $color-green;
+}

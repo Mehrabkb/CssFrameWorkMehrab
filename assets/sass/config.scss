@@ -1,4 +1,5 @@
 @import 'variables.scss';
+@import 'utilities.scss';
 /*
 html5doctor.com Reset Stylesheet
 v1.6.1
@@ -100,4 +101,7 @@ hr {
 
 input, select {
     vertical-align:middle;
+}
+a{
+    text-decoration: none;
 }
